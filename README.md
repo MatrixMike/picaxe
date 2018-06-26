@@ -5,11 +5,11 @@ that is a place to collect existing code that was used for teaching and/or demon
 that has been languishing on hard drives around my place.
 
 <ol><li>
-<a href="http://www.picaxe.com/Getting-Started/Software-Selection">
+<a href="http://www.picaxe.com/Getting-Started/Software-Selection">link</a>
 </li><li>
-<a href="http://www.rev-ed.co.uk/Products">
+<a href="http://www.rev-ed.co.uk/Products">link</a>
 </li><li>
-<a href="http://www.picaxecloud.com/">
+<a href="http://www.picaxecloud.com/">link</a>
 </li>
 </ol>
 

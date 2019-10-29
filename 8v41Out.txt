@@ -1,0 +1,15 @@
+
+PICAXE-08 Compiler
+Version 3.1
+Copyright (c) 1996-2014
+Revolution Education Ltd
+
+Compiled successfully.
+Memory used = 14 out of 128 bytes.
+
+Connect power now!
+Searching for hardware on /dev/ttyUSB1.
+Downloading program.
+...................
+
+PASS - programmed PICAXE-08 v4.1 successfully.

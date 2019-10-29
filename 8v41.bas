@@ -1,8 +1,9 @@
 main:
 	do
   	high C.0
-  	pause 1000
+  	pause 100
   	low C.0
-  	pause 500
+  	pause 100
 	loop
 	stop
+

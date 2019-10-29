@@ -1,7 +1,7 @@
 # picaxe
 
 placeholder for more PICAXE programs 
-that is a place to collect existing code that was used for teaching and/or demonatration
+that is a place to collect existing code that was used for teaching and/or demonstration
 that has been languishing on hard drives around my place.
 
 <ol><li>
